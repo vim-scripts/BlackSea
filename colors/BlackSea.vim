@@ -1,6 +1,6 @@
 " Vim color file
 " Maintainer:   Gerald S. Williams
-" Last Change:  2003 Mar 17
+" Last Change:  2003 Mar 19
 
 " This is a dark version/opposite of "seashell". The cterm version of this is
 " very similar to "evening".
@@ -16,10 +16,10 @@ let g:colors_name = "BlackSea"
 
 hi Normal guibg=Black guifg=seashell ctermfg=White
 hi NonText guifg=LavenderBlush ctermfg=LightMagenta
-hi DiffDelete guibg=LightRed guifg=Black ctermbg=DarkRed ctermfg=White
-hi DiffAdd guibg=LightGreen ctermbg=DarkGreen ctermfg=White
-hi DiffChange guibg=Gray90 ctermbg=DarkCyan ctermfg=White
-hi DiffText gui=NONE guibg=LightCyan2 ctermbg=DarkCyan ctermfg=Yellow
+hi DiffDelete guibg=DarkRed guifg=Black ctermbg=DarkRed ctermfg=White
+hi DiffAdd guibg=DarkGreen ctermbg=DarkGreen ctermfg=White
+hi DiffChange guibg=Gray30 ctermbg=DarkCyan ctermfg=White
+hi DiffText gui=NONE guibg=DarkCyan ctermbg=DarkCyan ctermfg=Yellow
 hi Comment guifg=LightBlue
 hi Constant guifg=DeepPink
 hi PreProc guifg=Magenta ctermfg=Magenta
