@@ -1,6 +1,6 @@
 " Vim color file
 " Maintainer:   Gerald S. Williams
-" Last Change:  2003 Mar 19
+" Last Change:  2003 Mar 20
 
 " This is a dark version/opposite of "seashell". The cterm version of this is
 " very similar to "evening".
@@ -23,7 +23,7 @@ hi DiffText gui=NONE guibg=DarkCyan ctermbg=DarkCyan ctermfg=Yellow
 hi Comment guifg=LightBlue
 hi Constant guifg=DeepPink
 hi PreProc guifg=Magenta ctermfg=Magenta
-hi StatusLine guibg=White guifg=DarkSeaGreen cterm=NONE ctermfg=White ctermbg=DarkGreen
+hi StatusLine guibg=#1f001f guifg=DarkSeaGreen cterm=NONE ctermfg=White ctermbg=DarkGreen
 hi StatusLineNC guifg=Gray
 hi VertSplit guifg=Gray
 hi Type gui=NONE
