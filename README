@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=590
+
+This is an inverse/opposite of the "seashell" color scheme
+(vimscript #589).
+
+Dark background, high contrast. The cterm version is very
+similar to "evening".
+
+Screenshot: http://home.ptd.net/~gwilliam/vim/BlackSea.png
